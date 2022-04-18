@@ -1,8 +1,8 @@
 <?php
 
 return [
-	'host' => 'localhost:8889',
-	'name' => 'posts',
+	'host' => 'mysql:3306',
+	'name' => 'php_news',
 	'user' => 'root',
 	'password' => 'root',
 ];
